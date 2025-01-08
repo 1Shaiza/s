@@ -13,6 +13,7 @@ getgenv().Settings = {
                 ["Christmas Cookie"] = {Class = "Misc", Price = "5500"},
                 ["Hot Cocoa"] = {Class = "Lootbox", Price = "6000"},
                 ["Snowflake Gift"] = {Class = "Lootbox", Price = "10000"},
+                ["Charm Chisel"] = {Class = "Misc", Price = "15000"},
                 ["Rainbow Mini Chest"] = {Class = "Misc", Price = "600000"},
                 ["Mini Pinata"] = {Class = "Misc", Price = "13000"},
                 ["Secret Key"] = {Class = "Misc", Price = "17500"},
