@@ -6,7 +6,7 @@ getgenv().Settings = {
             SearchTerminal = {
                 [[ Terminal doesn't support custom keywords. ]],
                 
-                ["2024 Gargantuan Christmas Present"] = {Class = "Lootbox", Price = "15000000"},
+                ["2024 Gargantuan Christmas Present"] = {Class = "Lootbox", Price = "30000000"},
                 ["2025 New Years Gift"] = {Class = "Lootbox", Price = "10000000"},
                 ["Jolly Gift"] = {Class = "Lootbox", Price = "50%"},
                 ["Candycane"] = {Class = "Fruit", Price = "1500"},
@@ -15,8 +15,8 @@ getgenv().Settings = {
                 ["Snowflake Gift"] = {Class = "Lootbox", Price = "10000"},
                 ["Charm Chisel"] = {Class = "Misc", Price = "35000"},
                 ["Rainbow Mini Chest"] = {Class = "Misc", Price = "600000"},
-                ["Mini Pinata"] = {Class = "Misc", Price = "13000"},
-                ["Secret Key"] = {Class = "Misc", Price = "17500"},
+                ["Mini Pinata"] = {Class = "Misc", Price = "17500"},
+                ["Secret Key"] = {Class = "Misc", Price = "19000"},
                 ["Void Key"] = {Class = "Misc", Price = "45000"},
                 ["Mini Chest"] = {Class = "Misc", Price = "30000"},
                 ["Crystal Key"] = {Class = "Misc", Price = "10000"},
