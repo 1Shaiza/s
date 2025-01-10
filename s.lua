@@ -33,6 +33,7 @@ getgenv().Settings = {
                     ["Mastery"] = {Class = "XPPotion", Price = "25%"},
                     ["Coins 7"] = {Class = "Enchant", Price = "+1%"},
                     ["Glitched Drive"] = {Class = "Misc", Price = "35%"},
+                    ["Lucky Eggs 10"] = {Class = "Enchant", Price = "5000000"},
                     ["Super Magnet 1"] = {Class = "Enchant", Price = "25%"},
                     ["Rainbow Eggs 1"] = {Class = "Enchant", Price = "25%"},
                     ["Crystal Key Upper Half"] = {Class = "Misc", Price = "+50%"},
