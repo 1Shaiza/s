@@ -7,7 +7,7 @@ getgenv().Settings = {
                 [[ Terminal doesn't support custom keywords. ]],
                 
                     ["2024 Gargantuan Christmas Present"] = {Class = "Lootbox", Price = "35000000"},
-                    ["Snowflake Egg"] = {Class = "Egg", Price = 40000000},
+                    ["Exclusive Egg 40"] = {Class = "Egg", Price = 40000000},
                     ["Jolly Gift"] = {Class = "Lootbox", Price = "50000"},
                     ["Candycane"] = {Class = "Fruit", Price = "1500"},
                     ["Christmas Cookie"] = {Class = "Misc", Price = "5500"},
