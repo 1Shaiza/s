@@ -86,16 +86,6 @@ getgenv().Settings = {
     Seller = {
         Active = false,
         Items = {
-
-                ["Rainbow Mini Chest"] = {Class = "Misc", Price = "650000"},
-                ["Mini Pinata"] = {Class = "Misc", Price = "20000"},
-                ["Secret Key"] = {Class = "Misc", Price = "20000"},
-                ["Void Key"] = {Class = "Misc", Price = "50000"},
-                ["Mini Chest"] = {Class = "Misc", Price = "33500"},
-                ["Crystal Key"] = {Class = "Misc", Price = "12500"},
-                ["Tech Key"] = {Class = "Misc", Price = "17500"},
-                ["Golden Prison Key"] = {Class = "Misc", Price = "155000"},
-
         },
         Serverhop = {
             ["Switch Servers"] = true,
