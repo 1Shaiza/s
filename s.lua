@@ -30,7 +30,7 @@ getgenv().Settings = {
                     ["Royalty 1"] = {Class = "Charm", Price = "25%"},
                     ["Exotic Treasure Flag"] = {Class = "Misc", Price = "50%"},
                     ["The Cocktail 1"] = {Class = "Potion", Price = "40%"},
-                    ["Mastery"] = {Class = "XPPotion", Price = "25%"},
+                    ["Mastery"] = {Class = "XPPotion", Price = "700000"},
                     ["Coins 7"] = {Class = "Enchant", Price = "22000"},
                     ["Basic Item Jar"] = {Class = "Misc", Price = 10000},
                     ["Glitched Drive"] = {Class = "Misc", Price = "35%"},
