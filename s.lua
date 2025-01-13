@@ -33,6 +33,7 @@ getgenv().Settings = {
                     ["The Cocktail 1"] = {Class = "Potion", Price = "40%"},
                     ["Mastery"] = {Class = "XPPotion", Price = "700000"},
                     ["Coins 7"] = {Class = "Enchant", Price = "30000"},
+                    ["Coins 6"] = {Class = "Enchant", Price = "2000"},
                     ["Basic Item Jar"] = {Class = "Misc", Price = 10000},
                     ["Glitched Drive"] = {Class = "Misc", Price = "35%"},
                     ["Lucky Eggs 10"] = {Class = "Enchant", Price = "5000000"},
