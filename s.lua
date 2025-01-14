@@ -64,11 +64,11 @@ getgenv().Settings = {
         },
         Serverhop = {
             ["Switch Servers"] = true,
-            ["Teleport Delay (s)"] = 6,
+            ["Teleport Delay (s)"] = 7,
             ["Add Pro Plaza Lobbies"] = false,
             ["Constant Terminal Searching"] = true,
             ["Terminal Searches per Item"] = 3,
-            ["Save # Servers"] = 10,
+            ["Save # Servers"] = 20,
         },
         Webhook = {
             ["URL"] = "https://discord.com/api/webhooks/1318927648814010429/66CdX1sWT551GUnyOeUyDnEujQX7YpG4L1IdhjIl14GiFzxxAtA2mdBrFURh95ruRGS-",
