@@ -7,7 +7,7 @@ getgenv().Settings = {
                 [[ Terminal doesn't support custom keywords. ]],
                 
                     ["Ultra Pet Token Boost"] = {Class = "Misc", Price = "15000000"},
-                    ["2024 Gargantuan Christmas Present"] = {Class = "Lootbox", Price = "35000000"},
+                    ["2024 Gargantuan Christmas Present"] = {Class = "Lootbox", Price = "37500000"},
                     ["Jolly Gift"] = {Class = "Lootbox", Price = "50000"},
                     ["Candycane"] = {Class = "Fruit", Price = "1500"},
                     ["Christmas Cookie"] = {Class = "Misc", Price = "5500"},
@@ -19,7 +19,7 @@ getgenv().Settings = {
                     ["Mini Pinata"] = {Class = "Misc", Price = "30000"},
                     ["Secret Key"] = {Class = "Misc", Price = "17500"},
                     ["Void Key"] = {Class = "Misc", Price = "45000"},
-                    ["Mini Chest"] = {Class = "Misc", Price = "30000"},
+                    ["Mini Chest"] = {Class = "Misc", Price = "32000"},
                     ["Crystal Key"] = {Class = "Misc", Price = "10000"},
                     ["Magic Shard"] = {Class = "Misc", Price = "25000"},
                     ["Tech Key"] = {Class = "Misc", Price = "17500"},
