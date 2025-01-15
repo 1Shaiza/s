@@ -6,7 +6,7 @@ getgenv().Settings = {
             SearchTerminal = {
                 [[ Terminal doesn't support custom keywords. ]],
                 
-                    ["Ultra Pet Token Boost"] = {Class = "Misc", Price = "10000000"},
+                    ["Ultra Pet Token Boost"] = {Class = "Misc", Price = "7000000"},
                     ["2024 Gargantuan Christmas Present"] = {Class = "Lootbox", Price = "37500000"},
                     ["Jolly Gift"] = {Class = "Lootbox", Price = "50000"},
                     ["Candycane"] = {Class = "Fruit", Price = "1500"},
