@@ -56,8 +56,8 @@ getgenv().Settings = {
             ["All Titanics"] = {Class = "Pet", Price = "50%", UseCosmicValues = true, AllTypes = true},
             ["All Items "] = {Class = "Egg", Price = "50%",  DetectManipulation = true, AllTiers = true},
             ["All Items  "] = {Class = "Misc", Price = "97%", AllTiers = true},
-            ["All Items   "] = {Class = "Enchant", Price = "97%", AllTiers = true},
-            ["All Items    "] = {Class = "Potion", Price = "97%", AllTiers = true},
+            ["All Items   "] = {Class = "Enchant", Price = "10", AllTiers = true},
+            ["All Items    "] = {Class = "Potion", Price = "10", AllTiers = true},
             ["All Items     "] = {Class = "Fruit", Price = "97%", AllTiers = true},
             ["All Exclusives"] = {Class = "Pet", Price = 750000},
 
