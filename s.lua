@@ -49,8 +49,8 @@ getgenv().Settings = {
 
             
             ["All Huges"] = {Class = "Pet", Price = "95%", DetectManipulation = true, AllTypes = true},
-            ["Rainbow All Huges"] = {Class = "Pet", Price = 35000000},
-            ["Golden All Huges"] = {Class = "Pet", Price = 13000000},
+            ["Rainbow All Huges"] = {Class = "Pet", Price = 40000000},
+            ["Golden All Huges"] = {Class = "Pet", Price = 15000000},
             ["Shiny All Huges"] = {Class = "Pet", Price = 45000000},
             ["All Titanics"] = {Class = "Pet", Price = "50%", UseCosmicValues = true, AllTypes = true},
             ["All Items "] = {Class = "Egg", Price = "50%",  DetectManipulation = true, AllTiers = true},
